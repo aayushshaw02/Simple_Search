@@ -1,0 +1,12 @@
+content:
+  - Command-line arguments
+  - Introduction to generic programming
+  - The Collections framework overview
+  - ArrayList
+  - The List interface
+  - The Set interface
+  - The Map interface
+  - HashMap
+  - Strategy
+  - Template method
+  - Processing strings
